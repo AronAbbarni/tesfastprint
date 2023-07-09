@@ -69,8 +69,7 @@ INSERT INTO `produk` (`id_produk`, `nama_produk`, `kategori`, `harga`, `status`)
 ('68', 'BOTOL 1000ML YELLOW KHUSUS UNTUK EPSON R1800/R800/R1900/R2000 - 4160 IM (T054420)', 'CI MTH TINTA LAIN (IM)', 1500, '0'),
 ('70', 'BOTOL KOTAK 100ML LK', 'L MTH AKSESORIS (LK)', 1000, '1'),
 ('72', 'BOTOL 10ML IM', 'S MTH STEMPEL (IM)', 1000, '0'),
-('9', 'ALUMUNIUM FOIL ALL IN ONE BULAT 23mm IM', 'L MTH AKSESORIS (IM)', 1000, '1'),
-('98', 'kodoknape', 'curute', 8, '1');
+('9', 'ALUMUNIUM FOIL ALL IN ONE BULAT 23mm IM', 'L MTH AKSESORIS (IM)', 1000, '1');
 
 --
 -- Indexes for dumped tables
